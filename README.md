@@ -1,4 +1,4 @@
-<img src='logo.png'/> 
+<img src='Logo.png'/> 
 
 The data collector script.
 <hr>
