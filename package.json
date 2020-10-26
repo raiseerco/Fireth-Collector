@@ -1,0 +1,16 @@
+{
+  "name": "fireth_collector",
+  "version": "0.0.1",
+  "description": "Fireth data gas collector service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "d3": "^6.2.0",
+    "mongodb": "^3.6.2"
+  }
+}
